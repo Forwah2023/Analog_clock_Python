@@ -1,4 +1,4 @@
-# Analog_clock_Python
+# Analog-clock-Python
 A minimalist analog clock implemented in PyQt5 with graphics scene.
 ## Requirements
   **PyQt5**, installed via 
